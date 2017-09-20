@@ -1,0 +1,1 @@
+tasks: [CR, MR, MPQA, SUBJ, SST, TREC, MRPC, SICKRelatedness, SICKEntailment, STSBenchmark, SNLI, ImageCaptionRetrieval, STS12, STS13, STS14, STS15, STS16]
